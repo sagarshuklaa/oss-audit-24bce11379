@@ -1,0 +1,15 @@
+
+=== My Open Source Manifesto ===
+Generated on: 20 March 2026
+
+Every day I rely on git — a tool I did not pay for,
+built by people I have never met, who chose to share
+their work openly. To me, freedom means independence.
+That is what open source represents: the freedom to
+use, study, modify, and share.
+
+One day I will build a student attendace_app and release it freely,
+the same way Linus Torvalds released Git — not for
+profit, but because open knowledge makes everyone better.
+
+Signed: sagar | 20 March 2026
